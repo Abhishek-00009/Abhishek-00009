@@ -4,7 +4,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Abhishek-00009&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" margin="10" />
-  <img align="top" height="150"  src="https://37.media.tumblr.com/11848c85034382162b4c42bce88e94b2/tumblr_mv3cygL4jU1stlpyfo1_500.gif"  />
+  
 
  
 
@@ -43,7 +43,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="30" alt="amazonwebservices logo"  />
 </div>
-
+<img align="right" height="150"  src="https://37.media.tumblr.com/11848c85034382162b4c42bce88e94b2/tumblr_mv3cygL4jU1stlpyfo1_500.gif"  />
 ###
 
 <div align="left">
