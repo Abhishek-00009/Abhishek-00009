@@ -42,9 +42,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="googlecloud logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="30" alt="amazonwebservices logo"  />
+  <img align="right" height="150"  src="https://37.media.tumblr.com/11848c85034382162b4c42bce88e94b2/tumblr_mv3cygL4jU1stlpyfo1_500.gif"  />
 </div>
-<img align="top" height="150"  src="https://37.media.tumblr.com/11848c85034382162b4c42bce88e94b2/tumblr_mv3cygL4jU1stlpyfo1_500.gif"  />
-###
+
+
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
